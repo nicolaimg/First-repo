@@ -1,3 +1,4 @@
+And this is now the first!
 This is a test
 and this is the second line
 
@@ -6,3 +7,5 @@ And this is the last.
 
 
 Gotcha. This is the eighth. 
+
+No this is the last
